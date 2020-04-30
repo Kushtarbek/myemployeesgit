@@ -1,0 +1,44 @@
+header{
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
+
+body{
+    margin: 0;
+}
+.title{
+    font-size: 30px;
+}
+
+.content div{
+    border: solid 1px;
+
+}
+
+.menu{
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+.text{
+
+    position: absolute;
+    margin-left: 100px;
+}
+.sidebar{
+    position: absolute;
+    right: 0;
+    width: 50px;
+
+}
+
+.footer{
+    background-color: lightgrey;
+    position: absolute;
+    bottom: 0;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+
+}
