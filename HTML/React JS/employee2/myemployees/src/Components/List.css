@@ -1,0 +1,24 @@
+.list {
+    box-shadow: 2 px 2 px 2px 2px blue;
+}
+.cell {
+    color: black;
+    display: inline-block;
+    width: 150px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.row{
+    font-weight: bold;
+    background-color: grey;
+}
+
+.header{
+    font-weight: bold;
+    background-color: salmon;
+}
+.row{
+    border-bottom: solid 1px grey;
+}
+
+  
